@@ -2,7 +2,8 @@
 
 ![alt tag](https://framagit.org/RobotsLibres/images/raw/master/001.png)
 
-Dossier "STL" tous les fichiers en téléchargement pour l'impression 3d du robot.
+Dossier "Fichiers Découpe Laser" vous avez deux choix de format.
+SVG : format pour le logiciel Insckape
+CDR : format pour le logiciel CorelDraw
 
-
-Vous trouverez les plans en dessin vectoriel (format AI ou SVG) pour découper le robot à la découpe laser.
+Dossier "Code arduino" vous trouverez le fichier .ino a mettre dans le logiciel arduino.
