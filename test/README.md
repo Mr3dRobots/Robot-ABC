@@ -6,3 +6,5 @@
 Dossier "test " vous avez deux choix de format.
 
 a supprimer.
+
+<span style="color:blue">some *blue* text</span>.
